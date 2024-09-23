@@ -1,0 +1,15 @@
+Q16. Write a C program to enter a number and print its reverse.
+Q17. Write a C program to check whether a number is palindrome or not.
+Q18. Write a C program to find frequency of each digit in a given integer.
+Q19. Write a C program to enter a number and print it in words.
+Q20. Write a C program to print all ASCII character with their values.
+Q21. Write a C program to find power of a number using for loop.
+Q22. Write a C program to find all factors of a number.
+Q23. Write a C program to calculate factorial of a number.
+Q24. Write a C program to find HCF (GCD) of two numbers.
+Q25. Write a C program to find LCM of two numbers.
+Q26. Write a C program to check whether a number is Prime number or not.
+Q27. Write a C program to print all Prime numbers between 1 to n.
+Q28. Write a C program to find sum of all prime numbers between 1 to n.
+Q29. Write a C program to find all prime factors of a number.
+Q30. Write a C program to check whether a number is Armstrong number or not.

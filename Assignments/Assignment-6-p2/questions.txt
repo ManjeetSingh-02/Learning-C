@@ -1,0 +1,20 @@
+Q21. Write a C program to left rotate an array.
+Q22. Write a C program to right rotate an array.
+Q23. Write a C program to add two matrices.
+Q24. Write a C program to subtract two matrices.
+Q25. Write a C program to perform Scalar matrix multiplication.
+Q26. Write a C program to multiply two matrices.
+Q27. Write a C program to check whether two matrices are equal or not.
+Q28. Write a C program to find sum of main diagonal elements of a matrix.
+Q29. Write a C program to find sum of minor diagonal elements of a matrix.
+Q30. Write a C program to find sum of each row and column of a matrix.
+Q31. Write a C program to interchange diagonals of a matrix.
+Q32. Write a C program to find upper triangular matrix.
+Q33. Write a C program to find lower triangular matrix.
+Q34. Write a C program to find sum of upper triangular matrix.
+Q35. Write a C program to find sum of lower triangular matrix.
+Q36. Write a C program to find transpose of a matrix.
+Q37. Write a C program to find determinant of a matrix.
+Q38. Write a C program to check Identity matrix.
+Q39. Write a C program to check Sparse matrix.
+Q40. Write a C program to check Symmetric matrix.

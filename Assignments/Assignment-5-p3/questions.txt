@@ -1,0 +1,20 @@
+Q31. Write a C program to print all Armstrong numbers between 1 to n.
+Q32. Write a C program to check whether a number is Perfect number or not.
+Q33. Write a C program to print all Perfect numbers between 1 to n.
+Q34. Write a C program to check whether a number is Strong number or not.
+Q35. Write a C program to print all Strong numbers between 1 to n.
+Q36. Write a C program to print Fibonacci series up to n terms.
+Q37. Write a C program to find one's complement of a binary number.
+Q38. Write a C program to find two's complement of a binary number.
+Q39. Write a C program to convert Binary to Octal number system.
+Q40. Write a C program to convert Binary to Decimal number system.
+Q41. Write a C program to convert Binary to Hexadecimal number system.
+Q42. Write a C program to convert Octal to Binary number system.
+Q43. Write a C program to convert Octal to Decimal number system.
+Q44. Write a C program to convert Octal to Hexadecimal number system.
+Q45. Write a C program to convert Decimal to Binary number system.
+Q46. Write a C program to convert Decimal to Octal number system.
+Q47. Write a C program to convert Decimal to Hexadecimal number system.
+Q48. Write a C program to convert Hexadecimal to Binary number system.
+Q49. Write a C program to convert Hexadecimal to Octal number system.
+Q50. Write a C program to convert Hexadecimal to Decimal number system.

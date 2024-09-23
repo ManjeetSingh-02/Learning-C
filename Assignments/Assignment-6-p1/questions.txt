@@ -1,0 +1,20 @@
+Q01. Write a C program to read and print elements of array.
+Q02. Write a C program to print all negative elements in an array.
+Q03. Write a C program to find sum of all array elements.
+Q04. Write a C program to find maximum and minimum element in an array.
+Q05. Write a C program to find second largest element in an array.
+Q06. Write a C program to count total number of even and odd elements in an array.
+Q07. Write a C program to count total number of negative elements in an array.
+Q08. Write a C program to copy all elements from an array to another array.
+Q09. Write a C program to insert an element in an array.
+Q10. Write a C program to delete an element from an array at specified position.
+Q11. Write a C program to count frequency of each element in an array.
+Q12. Write a C program to print all unique elements in the array.
+Q13. Write a C program to count total number of duplicate elements in an array.
+Q14. Write a C program to delete all duplicate elements from an array.
+Q15. Write a C program to merge two array to third array.
+Q16. Write a C program to find reverse of an array.
+Q17. Write a C program to put even and odd elements of array in two separate array.
+Q18. Write a C program to search an element in an array.
+Q19. Write a C program to sort array elements in ascending or descending order.
+Q20. Write a C program to sort even and odd elements of array separately.

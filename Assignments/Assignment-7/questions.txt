@@ -1,0 +1,183 @@
+1. Defne a structure to store the name, an array
+marks[] which stores the marks of three different
+subjects, and a character grade. Write a program
+to display the details of the student whose name
+is entered by the user.
+Note: Data should be stored in Heap memory.
+
+2. Declare a structure that represents the following hierarchical information.
+(a) LoginId
+(b) Roll Number
+(c) Name
+(i) First name
+(ii) Middle Name
+(iii) Last Name
+(d) Sex
+(e) Date of Birth
+(i) Day
+(ii) Month
+(iii) Year
+(f) Marks
+(i) English
+(ii) Mathematics
+(iii) Computer Science
+Use the structure defnition as mentioned above to make an array of students.
+Create nested structures for Name, Date of Birth and Marks
+Create a menu driven program as follows:-
+1. Add Student Details
+2. View All Students Details.
+3. View Students who have secured less than given percentage of the aggregate.
+eg. View Students who have secured less than 40% of the aggregate.
+4. View Student details based on given Date of Birth
+
+3. Modify Question 2 to print each student’s averagemarks and the class average
+(that includes average of all the student’s marks).
+
+4. Make an array of students as illustrated in Question 2and write a program to
+display the details of the student with the given Rollno.
+
+5. Write a program to fnd smallest of three distances using structures.
+Create a structure Distance, with two data members as follows:-
+struct distance
+{ int km;
+int meter;
+};
+Create three variables of struct distance, fill their data memebers from user input through keyboard at
+runtime.
+Find and print the smallest distance among given three distances.
+
+6. Write a program to calculate the distance between
+the given points (6,3) and (2,2). Use the structure to store the x and y coordinates of Point as follows:-
+strcut point
+{ int x;
+int y;
+};
+
+7. Write a program to read and display the information
+about all the employees in a department.
+Edit the details of the ith employee and redisplay the information.
+Create and use the appropriate structure to store, edit and print the details.
+
+8. Write a program to add and subtract height 6'2" and 5'4".
+Use the structe height to store the data as follows:-
+struct height
+{ int feet;
+int inch;
+};
+
+9. Write a program to add and subtract 10hrs 20mins 50sec and 5hrs 30min 40sec
+with the help of folloing structure for data storage:-
+struct duration
+{ int hrs;
+int min;
+int sec;
+};
+
+10. Write a program using structure to check if the
+date enterd by user belongs to leap year or not.
+Use the following data to store the date as follows:-
+struct date
+{ int day;
+int month;
+int year;
+};
+
+11. Write a program using pointer to structure to
+initialize the members of an employee structure.
+Use functions to print the employee’s information.
+
+12. Write a program to create a structure with the
+information given below. Then, read and print the
+data.
+Employee[10]
+(a) Emp_Id
+(b) Name
+(i) First Name
+(ii) Middle Name
+(iii) Last Name
+(c) Address
+
+(i) Area
+(ii) City
+(iii) State
+(d) Age
+(e) Salary
+(f) Designation
+
+13. Defne a structure date containing three integers—
+day, month, and year. Write a program using
+functions to read data, to validate the date entered
+by the user and then print the date on the screen.
+For example, if you enter 29,2,2010 then that is an
+invalid date as 2010 is not a leap year. Similarly
+31,6,2007 is invalid as June does not have 31 days.
+
+14. Using the structure definition of the above
+program, write a function to increment the date.
+Make sure that the incremented date is a valid
+date.
+
+15. Modify the above program to add a specific
+number of days to the given date.
+
+16. Write a program to defne a structure vector.
+Then write functions to read data, print data, add two
+vectors and scale the members of a vector by a
+factor of 10.
+
+17. Write a program to defne a structure for a hotel
+that has members— name, address, grade, number
+of rooms, and room charges. Write a function to
+print the names of hotels in a particular grade. Also
+write a function to print names of hotels that have
+room charges less than the specifed value.
+Program should be menu driven.
+
+18. Write a program to defne a union and a structure
+both having exactly the same members. Using
+the sizeof operator, print the size of structure
+variable as well as union variable and observe the result.
+
+19. Declare a structure time that has three felds—hr,
+min, sec. Create two variables start_time and
+end_time. Input their values from the user.
+If difference between start_time and end_time is more than 2 hrs 30 minutes 45 seconds,
+then display "Time to Relax" on the screen, else display "Hurry up Please....".
+
+20. Declare a structure fraction that has two felds—
+numerator and denominator.
+
+struct fraction
+{ int numerator;
+int denominator;
+}
+Create two variables of the above structure
+and compare them using function. Return 0 if the
+two fractions are equal, –1 if the frst fraction is
+less than the second and 1 otherwise. You may
+convert a fraction into a foating point number
+for your convenience.
+
+21. Declare a structure POINT. Input the coordinates
+of a point variable and determine the quadrant in
+which it lies. The following table can be used to
+determine the quadrant:-
+----------------------------------
+Quadrant X Y
+----------------------------------
+1 Positive Positive
+2 Negative Positive
+3 Negative Negative
+4 Positive Negative
+----------------------------------
+
+22. Write a program to calculate the area of one
+of the geometric fgures—circle, rectangle or a
+triangle. Write a function to calculate the area.
+The function must receive one parameter which
+is a structure that contains the type of fgure and
+the size of the components needed to calculate the
+area must be a part of a union. Note that a circle
+requires just one component, rectangle requires
+two components and a triangle requires the size
+of three components to calculate the area

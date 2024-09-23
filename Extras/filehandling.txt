@@ -1,0 +1,34 @@
+Minimum requirement to implement file handling is STDIO.H
+
+fopen() is a function which requires two arguments to open a file -> file name with location and file opening mode , both arguments should be in ""
+
+by c programming , we can create either .txt or data file
+
+fp = fopen("a.txt", "a") ;
+fp = fopen("a.txt", "w") ;
+fp = fopen("a.txt", "r") ;
+fp = fopen("a.txt", "a+") ;
+fp = fopen("a.txt", "w+") ;
+fp = fopen("a.txt", "r+") ;
+fp = fopen("a.txt", "ab") ;
+fp = fopen("a.txt", "wb") ;
+fp = fopen("a.txt", "rb") ;
+fp = fopen("a.txt", "ab+") ;
+fp = fopen("a.txt", "wb+") ;
+fp = fopen("a.txt", "rb+") ;
+
+"w(write)" -> when we open file in w mode , then there might be 2 cases:
+        1. if file does not exist then it will create new file and ready to write
+        2. if file does exist then it will re-create new file or clear data of file and set pointer to write from beginning
+
+"r(read)" -> when we open file in r mode , then there might be 2 cases:
+        1. if file already exist , then fopen returns the base address of the file and set the pointer to beginning of the file to read
+        2. if file does not exist , then returns NULL
+
+"a(append)" -> when we open file in a mode , then there might be 2 cases:
+        1. if file already exist , then set the pointer at the end of the file to append
+        2. if file does not exist , then returns NULL
+
+"w+" -> write and read
+"r+" -> read and write
+"a+" -> append and read

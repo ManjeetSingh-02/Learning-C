@@ -1,0 +1,10 @@
+1	A character is a vowel or consonant
+2	A character is an alphabet or not
+3	Ascii values of a character
+4	Uppercase, Lowercase or special character
+5	A number is positive or negative
+6	A number is even or odd
+7	Swap two numbers without third variable
+8	Area of a circle
+9	LCM of two numbers
+10	GCD of two numbers

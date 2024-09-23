@@ -1,0 +1,102 @@
+1. Write a C program to check whether a number is negative, positive or zero.
+    Ex:
+    Input:          -45        0        12
+    o/p:         Negative        Zero        Positive
+
+2. Write a C program to check whether a number is divisible by 5 and 11 or not.
+    Ex:    
+    Input:    45            55
+    o/p:    Not Divisible        Divisible
+
+3. Write a C program to check whether a number is even or odd.
+    Ex:
+    Input:    128            171
+    o/p:    Even            Odd
+
+4. Write a C program to input any character and check whether it is alphabet, digit or special character.
+    Ex:    
+    Input:    A        m        9        @
+    o/p:    Alphabet         Alphabet        Digit        Special character
+
+5. Write a C program to check whether a character is uppercase or lowercase alphabet.
+    Ex:    
+    Input:    M        k
+    o/p:    Uppercase    Lowercase
+
+6. Write a C program to print the English word of a digit like (One, Two,Three,......,Nine) if Digit is between 1 to 9,      Otherwise tell whether it's Even or Odd if Digit is greater than 9.
+    Ex:    
+    Input:    8        16        11        -4
+    o/p:    Eight        Even        Odd        Negative
+
+Note: output should be negative if input is less than Zero
+
+7. Write a C program to enter month number and print total number of days in month. (Excluding Leap Year)
+    Ex:    
+    Input:    6            7
+    o/p:    30 Days            31 Days
+
+8. Write a C program to input angles of a triangle and check whether triangle is valid or not.    
+    Ex:    
+    Input:    30,  60,  90          45, 45,  100
+    o/p:    Valid            Invalid
+
+9. Write a C program to calculate the Area of two rectangles and print the length and breadth of the rectangle whose          
+Area is greater.
+    Input format: length and breadth of two rectangles respectively.
+    output: length and breadth of rectangle whose area is greater.
+ 
+10.Write a C program to find all roots of a quadratic equation.
+    Ex:    Input
+        Input a: 8
+        Input b: -4
+        Input c: -2
+    o/p:    Root1: 0.80    Root2: -0.30
+
+11. Write a C program to check whether triangle is equilateral, scalene or isosceles
+    Input: all side's Length
+
+    Ex:    side1        side2        side3        Triangle
+     1.    30        30        30        Equilateral
+                         2.    12        6        8        Scalene
+     3.    8        8        10        Isosceles
+
+
+12. Write a C program to input electricity unit charges and calculate total electricity bill according to the given     condition:
+    For first 50 units Rs. 0.50/unit
+    For next 100 units Rs. 0.75/unit
+    For next 100 units Rs. 1.20/unit
+    For unit above 250 Rs. 1.50/unit
+    An additional surcharge of 20% is added to the bill
+
+    Ex:
+        Unit    Bill
+    1.    50    30.00
+    2.    120    93.00
+    3.    256    274.80
+    4.    12    7.20
+
+
+13. Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics        and Computer. 
+Calculate percentage and grade according to following:
+
+    Percentage >= 90% : Grade A
+    Percentage >= 80% : Grade B
+    Percentage >= 70% : Grade C
+    Percentage >= 60% : Grade D
+    Percentage >= 40% : Grade E
+    Percentage < 40% : Grade F
+
+    Ex:
+    Input
+    Input marks of five subjects: 95
+    95
+    97
+    98
+    90
+    o/p:   Percentage = 95.00  
+               Grade A
+
+14. Write a C program to check even or odd using bitwise operator.
+    Ex:    Input        output
+        12        12  is Even
+        17        17 is Odd

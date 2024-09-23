@@ -1,0 +1,21 @@
+01. Write a C program to find cube of any number using function.
+02. Write a C program to find diameter, circumference and area of circle using functions.
+03. Write a C program to find maximum and minimum between two numbers using functions.
+04. Write a C program to check whether a number is even or odd using functions.
+05. Write a C program to check whether a number is prime, Armstrong or perfect number using functions.
+06. Write a C program to find all prime numbers between given interval using functions.
+07. Write a C program to print all strong numbers between given interval using functions.
+08. Write a C program to print all Armstrong numbers between given interval using functions.
+09. Write a C program to print all perfect numbers between given interval using functions.
+10. Write a C program to find power of any number using recursion.
+11. Write a C program to print all natural numbers between 1 to n using recursion.
+12. Write a C program to print all even or odd numbers in given range using recursion.
+13. Write a C program to find sum of all natural numbers between 1 to n using recursion.
+14. Write a C program to find sum of all even or odd numbers in given range using recursion.
+15. Write a C program to find reverse of any number using recursion.
+16. Write a C program to check whether a number is palindrome or not using recursion.
+17. Write a C program to find sum of digits of a given number using recursion.
+18. Write a C program to find factorial of any number using recursion.
+19. Write a C program to generate nth Fibonacci term using recursion.
+20. Write a C program to find GCD (HCF) of two numbers using recursion.
+21. Write a C program to find LCM of two numbers using recursion.
